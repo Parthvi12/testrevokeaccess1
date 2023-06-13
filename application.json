@@ -24,6 +24,7 @@
   "color": "#F4FFDE",
   "icon": "bus",
   "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
   "collapseInvisibleWidgets": true,
