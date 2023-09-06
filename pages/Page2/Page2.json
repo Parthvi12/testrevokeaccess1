@@ -23,8 +23,7 @@
           "minHeight": 690,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
-          "leftColumn": 0,
-          "children": []
+          "leftColumn": 0
         },
         "layoutOnLoadActions": [],
         "validOnPageLoadActions": true,
