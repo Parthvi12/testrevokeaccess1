@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Public.users",
-    "slug": "public-users",
+    "name": "test",
+    "slug": "test",
     "layouts": [
       {
         "viewMode": false,
@@ -29,7 +29,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Public.users_SelectQuery",
+              "id": "test_SelectQuery",
               "name": "SelectQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -46,14 +46,15 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Public.users",
+        "id": "test",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "deleted": false,
   "gitSyncId": "643f8a791bd37c333defc87c_650d77a72b0ccd69e9585209"
