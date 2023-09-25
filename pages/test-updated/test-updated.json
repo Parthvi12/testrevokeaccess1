@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page2",
-    "slug": "page2",
+    "name": "test-updated",
+    "slug": "test-updated",
     "layouts": [
       {
         "viewMode": false,
@@ -29,7 +29,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page2_FindQuery",
+              "id": "test-updated_FindQuery",
               "name": "FindQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -51,14 +51,15 @@
           "data_table"
         ],
         "validOnPageLoadActions": true,
-        "id": "Page2",
+        "id": "test-updated",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "deleted": false,
   "gitSyncId": "643f8a791bd37c333defc87c_649ab8d96b34eb71a8c12734"
