@@ -29,7 +29,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "test-updated_FindQuery",
               "name": "FindQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
