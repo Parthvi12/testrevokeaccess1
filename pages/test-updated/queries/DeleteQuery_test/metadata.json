@@ -67,8 +67,7 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": [],
-    "createdAt": "2023-09-25T04:40:34Z"
+    "userPermissions": []
   },
   "id": "test-updated_DeleteQuery_test",
   "deleted": false,
